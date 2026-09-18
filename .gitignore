@@ -1,0 +1,19 @@
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.backup
+
+# AWS
+.aws/
+
+# Environment files
+.env
+
+# SSH keys
+*.pem
+
+# Python
+__pycache__/
+
+# Docker
+*.log
